@@ -16,14 +16,15 @@
 
 - 📑 Representacion de la Universidad UCATEBA en la Competencia de Emprendedores del MESCYT 2023
 - 🖥️ Introducción al Desarrollo Web Responsive con HTML y CSS
-- 📑 Auxiliar en Contabilidad
 - 🔒 Seguridad cibernética
+- 📑 Auxiliar en Contabilidad
 
 ## Habilidades
 
 - 🖥️ Frontend: Html, CSS, Javascript, Typescript, TailwindCSS, ReactJs
 - 🐞 Backend: NodeJs, Express
 - 🛢️ Base de datos: MySQL, MongoDB, Sql Server Managment Studio (SSMS)
+- 🧠 Idiomas: Ingles, Español
 
 ## Contacto
 
