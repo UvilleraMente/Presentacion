@@ -15,7 +15,7 @@
 ## Certificados
 
 - 📑 Representacion de la Universidad UCATEBA en la Competencia de Emprendedores del MESCYT 2023
-- 📑 Introducción al Desarrollo Web Responsive con HTML y CSS
+- 🖥️ Introducción al Desarrollo Web Responsive con HTML y CSS
 - 📑 Auxiliar en Contabilidad
 - 🔒 Seguridad cibernética
 
