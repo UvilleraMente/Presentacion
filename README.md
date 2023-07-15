@@ -37,3 +37,6 @@ Puedes contactarme a través de los siguientes enlaces:
 - 📷 Instagram: [uvilleramente_](https://www.instagram.com/uvilleramente_/)
 
 ¡Estoy emocionado de conectarte con nuevos proyectos y oportunidades! No dudes en contactarme. 😊🚀
+
+![WhatsApp Image 2023-07-14 at 11 01 45 PM](https://github.com/UvilleraMente/Presentacion/assets/106884946/61c11c00-4c61-4757-9112-7b6a6e0cf39a)
+
