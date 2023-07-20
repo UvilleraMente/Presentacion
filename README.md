@@ -66,4 +66,5 @@ Feel free to reach out to me through the following links:
 
 I'm excited to connect with new projects and opportunities! Feel free to get in touch. 😊🚀
 
-![WhatsApp Image 2023-07-14 at 11 01 45 PM](https://github.com/UvilleraMente/Presentacion/assets/106884946/61c11c00-4c61-4757-9112-7b6a6e0cf39a)
+![Andres](https://github.com/UvilleraMente/UvilleraMente/assets/106884946/9a64dd1f-80d0-4078-a221-e62f66bec9c4)
+
