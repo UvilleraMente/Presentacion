@@ -57,8 +57,6 @@ Here are some of the technologies I have used and worked with:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UvilleraMente&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvilleraMente&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UvilleraMente&theme=radical" alt="GitHub Streak" />
 </div>
 
 <br/>
