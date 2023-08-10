@@ -1,5 +1,6 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <br />
   <img src="https://github.com/UvilleraMente/UvilleraMente/assets/106884946/9a64dd1f-80d0-4078-a221-e62f66bec9c4" alt="Andres" width=96 height=96/>
   <h1>Andrés de la Cruz</h1>
   <p>Computer Systems Engineer<br>💻 Software Developer, Web Developer, and Tech Solutions Specialist</p>
