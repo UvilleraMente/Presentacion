@@ -4,9 +4,6 @@
   <p>👨‍💻 Computer Systems Engineer<br>💻 Software Developer, Web Developer, and Tech Solutions Specialist</p>
 </div>
 
-👨‍💻 Computer Systems Engineer \
-💻 Software Developer, Web Developer, and Tech Solutions Specialist
-
 ## Work Experience
 
 - 👨‍💼 JFK Solutions
@@ -88,5 +85,3 @@ Here are some of the technologies I have used and worked with:
   <a href="https://www.facebook.com/AndresDlcrz27" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/uvilleramente_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-
-![Andres](https://github.com/UvilleraMente/UvilleraMente/assets/106884946/9a64dd1f-80d0-4078-a221-e62f66bec9c4)
