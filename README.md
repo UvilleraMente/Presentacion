@@ -68,6 +68,7 @@ Here are some of the technologies I have used and worked with:
   <a href="https://www.instagram.com/uvilleramente_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-I'm excited to connect with new projects and opportunities! Feel free to get in touch. 😊🚀
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" />
 
 ![Andres](https://github.com/UvilleraMente/UvilleraMente/assets/106884946/9a64dd1f-80d0-4078-a221-e62f66bec9c4)
