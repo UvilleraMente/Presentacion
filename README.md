@@ -6,6 +6,46 @@
   <p>Computer Systems Engineer<br>Software Developer, Web Developer, and Tech Solutions Specialist</p>
 </div>
 
+<div align="center">
+    <button id="translateButton" onclick="toggleTranslation()">Translate to Spanish</button>
+    <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <!-- The rest of your content -->
+</div>
+
+<script>
+let isSpanish = false;
+
+function toggleTranslation() {
+    isSpanish = !isSpanish;
+    const button = document.getElementById('translateButton');
+    const header = document.querySelector('h1');
+    const aboutText = document.querySelector('p');
+    const workExpItems = document.querySelectorAll('ul > li');
+    const educationItem = document.querySelector('.education-item');
+    const skillsList = document.querySelector('.skills-list');
+    
+    if (isSpanish) {
+        button.textContent = 'Translate to English';
+        header.textContent = 'Andrés de la Cruz';
+        aboutText.textContent = 'Ingeniero en Sistemas Computacionales\nDesarrollador de Software, Desarrollador Web y Especialista en Soluciones Tecnológicas';
+        workExpItems[0].textContent = 'JFK Solutions (2023)';
+        workExpItems[1].textContent = 'Universidad Ucateba (2023)';
+        educationItem.textContent = 'Graduado de la Universidad Católica Tecnológica de Barahona (UCATEBA) en 2024';
+        // Translate more content here
+        
+    } else {
+        button.textContent = 'Translate to Spanish';
+        header.textContent = 'Andres de la Cruz';
+        aboutText.textContent = 'Computer Systems Engineer\nSoftware Developer, Web Developer, and Tech Solutions Specialist';
+        workExpItems[0].textContent = 'JFK Solutions';
+        workExpItems[1].textContent = 'Ucateba University';
+        educationItem.textContent = 'Graduate of Universidad Católica Tecnológica de Barahona (UCATEBA)';
+        // Translate more content here
+    }
+}
+</script>
+
+
 ## Work Experience
 
 - 👨‍💼 JFK Solutions (2023)
