@@ -6,12 +6,6 @@
   <p>Computer Systems Engineer<br>Software Developer, Web Developer, and Tech Solutions Specialist</p>
 </div>
 
-<div align="center">
-    <button id="translateButton" onclick="toggleTranslation()">Translate to Spanish</button>
-    <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
-    <!-- The rest of your content -->
-</div>
-
 ## Work Experience
 
 - 👨‍💼 JFK Solutions (2023)
