@@ -60,13 +60,13 @@ Here are some of the technologies I have used and worked with:
 
 ## Contact
 
-Feel free to reach out to me through the following links:
-
-- 💼 LinkedIn: [Andrés de la Cruz](https://www.linkedin.com/in/andrés-de-la-cruz-4b7a46272/)
-- ✉️ Email: [tfdrey98@gmail.com](mailto:tfdrey98@gmail.com)
-- 💬 WhatsApp: [+1809-371-8402](https://wa.me/18093718402)
-- 🌐 Facebook: [Andrés de la Cruz](https://www.facebook.com/AndresDlcrz27)
-- 📷 Instagram: [uvilleramente_](https://www.instagram.com/uvilleramente_/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/andrés-de-la-cruz-4b7a46272/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tfdrey98@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/18093718402" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.facebook.com/AndresDlcrz27" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/uvilleramente_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 
 I'm excited to connect with new projects and opportunities! Feel free to get in touch. 😊🚀
 
