@@ -56,7 +56,34 @@ Here are some of the technologies I have used and worked with:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UvilleraMente&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UvilleraMente&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UvilleraMente&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UvilleraMente&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=UvilleraMente&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
 
 ## Contact
 
@@ -67,8 +94,5 @@ Here are some of the technologies I have used and worked with:
   <a href="https://www.facebook.com/AndresDlcrz27" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/uvilleramente_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/simpleicons.svg" />
 
 ![Andres](https://github.com/UvilleraMente/UvilleraMente/assets/106884946/9a64dd1f-80d0-4078-a221-e62f66bec9c4)
