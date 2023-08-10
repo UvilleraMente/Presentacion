@@ -6,6 +6,12 @@
   <p>Computer Systems Engineer<br>Software Developer, Web Developer, and Tech Solutions Specialist</p>
 </div>
 
+<div align="center">
+    <img src="https://gifs.alphacoders.com/gifs/view/12420" alt="Animated GIF" />
+    <!-- Rest of your content -->
+</div>
+
+
 ## Work Experience
 
 - 👨‍💼 JFK Solutions (2023)
