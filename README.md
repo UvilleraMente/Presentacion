@@ -13,7 +13,7 @@
 
 ## Education
 
-- 🎓 Graduate of Universidad Católica Tecnológica de Barahona (UCATEBA)
+- 🎓 Graduate of Universidad Católica Tecnológica de Barahona (UCATEBA) 2024
 
 ## Certifications
 
