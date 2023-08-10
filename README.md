@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Andrés de la Cruz</h1>
   <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
+<h1>Andrés de la Cruz</h1>
 </div>
 
 👨‍💻 Computer Systems Engineer \
