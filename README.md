@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="https://gifs.alphacoders.com/gifs/view/12420" alt="Animated GIF" />
+    <img src="[https://gifs.alphacoders.com/gifs/view/12420](https://giffiles.alphacoders.com/124/12420.gif)" alt="Animated GIF" />
     <!-- Rest of your content -->
 </div>
 
