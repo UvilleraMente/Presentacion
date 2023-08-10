@@ -1,4 +1,7 @@
+<div align="center">
 # Andrés de la Cruz
+  <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
 👨‍💻 Computer Systems Engineer \
 💻 Software Developer, Web Developer, and Tech Solutions Specialist
@@ -73,16 +76,6 @@ Here are some of the technologies I have used and worked with:
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=UvilleraMente&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
 
 
 ## Contact
