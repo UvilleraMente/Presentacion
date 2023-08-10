@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-    <img src="[https://gifs.alphacoders.com/gifs/view/12420](https://giffiles.alphacoders.com/124/12420.gif)" alt="Animated GIF" />
-    <!-- Rest of your content -->
+![12420](https://github.com/UvilleraMente/UvilleraMente/assets/106884946/98fa6d8d-2c5e-405b-b4b7-6a64f10bc6ef)
 </div>
 
 
