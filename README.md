@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
     <br />
 
-  <img src="![WhatsApp Image 2024-10-24 at 10 15 46 PM](https://github.com/user-attachments/assets/2a7321e2-f3b0-402b-a59a-bd440ddde2eb)
+  <img src="(https://github.com/user-attachments/assets/2a7321e2-f3b0-402b-a59a-bd440ddde2eb)
 " alt="Andres" width=250 height=250/>
   <h1>Andrés de la Cruz</h1>
   <p>Computer Systems Engineer<br>Software Developer, Web Developer, and Tech Solutions Specialist</p>
