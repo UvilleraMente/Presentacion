@@ -2,9 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=UvilleraMente&color=blueviolet&style=flat-square" alt="Profile Views" />
     <br />
 
-<div style="text-align: center; overflow: hidden;">
-  <img src="https://github.com/user-attachments/assets/2a7321e2-f3b0-402b-a59a-bd440ddde2eb" alt="Andres" width="250" height="250" style="transform: scale(1.5);"/>
-</div>
+  <img src="https://github.com/user-attachments/assets/59ed7999-9f23-4bed-b146-44c15ad00672" alt="Andres" width="250" height="250" style="transform: scale(1.5);"/>
 
   <h1>Andrés de la Cruz</h1>
   <p>Computer Systems Engineer<br>Software Developer, Web Developer, and Tech Solutions Specialist</p>
